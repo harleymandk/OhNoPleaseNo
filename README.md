@@ -1,3 +1,3 @@
 # OhNoPleaseNo
 
-A small Java game Donbe for Dreamhack 2015
+A small Java game done for Dreamhack 2015 Hackathon
