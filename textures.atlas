@@ -1,0 +1,466 @@
+
+textures.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Door
+  rotate: false
+  xy: 2, 508
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Door
+  rotate: false
+  xy: 642, 638
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 2
+Door
+  rotate: false
+  xy: 768, 638
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 3
+Door
+  rotate: false
+  xy: 774, 896
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 4
+Door
+  rotate: false
+  xy: 774, 770
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 5
+Door
+  rotate: false
+  xy: 642, 512
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 6
+Door
+  rotate: false
+  xy: 768, 512
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 7
+Door
+  rotate: false
+  xy: 518, 128
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 8
+Door
+  rotate: false
+  xy: 644, 128
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 9
+Door
+  rotate: false
+  xy: 770, 128
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 10
+Door
+  rotate: false
+  xy: 776, 386
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 11
+Door
+  rotate: false
+  xy: 776, 260
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 12
+Door
+  rotate: false
+  xy: 894, 644
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 13
+Door
+  rotate: false
+  xy: 894, 518
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 14
+Door
+  rotate: false
+  xy: 896, 134
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 15
+Door
+  rotate: false
+  xy: 896, 8
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 16
+Door
+  rotate: false
+  xy: 2, 124
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 17
+Door
+  rotate: false
+  xy: 128, 124
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 18
+Door
+  rotate: false
+  xy: 254, 124
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 19
+Door
+  rotate: false
+  xy: 380, 124
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 20
+Door
+  rotate: false
+  xy: 506, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 21
+Door
+  rotate: false
+  xy: 632, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 22
+Door
+  rotate: false
+  xy: 758, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 23
+Door0t
+  rotate: false
+  xy: 516, 638
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Door1t
+  rotate: false
+  xy: 516, 512
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Finnish
+  rotate: false
+  xy: 2, 250
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Floor
+  rotate: false
+  xy: 260, 250
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+PresurePlate
+  rotate: false
+  xy: 516, 764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spikes
+  rotate: false
+  xy: 518, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+textures2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Door
+  rotate: false
+  xy: 2, 380
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: 24
+Floor00
+  rotate: false
+  xy: 516, 894
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Floor01
+  rotate: false
+  xy: 2, 254
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Floor02
+  rotate: false
+  xy: 128, 380
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Floor03
+  rotate: false
+  xy: 516, 768
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Floor04
+  rotate: false
+  xy: 642, 894
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Floor05
+  rotate: false
+  xy: 2, 128
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Floor06
+  rotate: false
+  xy: 128, 254
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Floor07
+  rotate: false
+  xy: 254, 380
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Goal
+  rotate: false
+  xy: 2, 506
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+IWC_BL
+  rotate: false
+  xy: 516, 642
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IWC_BR
+  rotate: false
+  xy: 642, 768
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IWC_TL
+  rotate: false
+  xy: 768, 894
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IWC_TR
+  rotate: false
+  xy: 2, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IWS_H
+  rotate: false
+  xy: 128, 128
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IWS_L
+  rotate: false
+  xy: 254, 254
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Trap01
+  rotate: false
+  xy: 380, 380
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Trap03
+  rotate: false
+  xy: 516, 516
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+WCE_B
+  rotate: false
+  xy: 642, 642
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+WCE_L
+  rotate: false
+  xy: 768, 768
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+WCE_R
+  rotate: false
+  xy: 894, 894
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+WCE_T
+  rotate: false
+  xy: 128, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+con_and
+  rotate: false
+  xy: 254, 128
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+con_timedSwitch
+  rotate: false
+  xy: 380, 254
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+con_trigger
+  rotate: false
+  xy: 642, 516
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+con_wait
+  rotate: false
+  xy: 768, 642
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+leverOff
+  rotate: false
+  xy: 894, 768
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+leverOn
+  rotate: false
+  xy: 254, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 380, 128
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+player2
+  rotate: false
+  xy: 768, 516
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+pressureplate
+  rotate: false
+  xy: 894, 642
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+pressureplate_on
+  rotate: false
+  xy: 380, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+tile
+  rotate: false
+  xy: 894, 516
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+tileWall
+  rotate: false
+  xy: 506, 380
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+
+textures3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+goal_off
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
